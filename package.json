@@ -14,13 +14,14 @@
     "lint": "eslint ./"
   },
   "dependencies": {
-    "bluebird": "^3.3.4",
+    "Promise": "^1.0.5",
+    "bluebird": "^3.5.1",
     "chai": "^3.2.0",
     "clarifai": "^2.4.0",
     "colors": "^1.1.2",
     "eslint-config-hackreactor": "git://github.com/hackreactor-labs/eslint-config-hackreactor",
     "mocha": "^2.2.5",
     "nock": "^2.15.0",
-    "request": "^2.61.0"
+    "request": "^2.83.0"
   }
 }
